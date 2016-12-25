@@ -1,0 +1,23 @@
+{
+  "ACTION": "Action",
+  "ADVENTURE": "Aventure",
+  "ANIMATION": "Animation",
+  "COMEDY": "Comédie",
+  "CRIME": "Crime",
+  "DOCUMENTARY": "Documentaire",
+  "DRAMA": "Drame",
+  "FAMILY": "Familial",
+  "FANTASY": "Fantastique",
+  "FOREIGN": "Etranger",
+  "GENRES": "Genres",
+  "HISTORY": "Historique",
+  "HORROR": "Horreur",
+  "MUSIC": "Musique",
+  "MYSTERY": "Mystère",
+  "ROMANCE": "Romance",
+  "SCIENCE_FICTION": "Science Fiction",
+  "TV_MOVIE": "Téléfilm",
+  "THRILLER": "Thriller",
+  "WAR": "Guerre",
+  "WESTERN": "Western"
+}
